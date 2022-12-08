@@ -2,7 +2,7 @@ aniso8601==3.0.2
 asn1crypto==0.24.0
 aspy.yaml==1.1.1
 cached-property==1.4.3
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 cfgv==1.1.0
 chardet==3.0.4
