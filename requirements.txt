@@ -45,7 +45,7 @@ PyYAML>=4.2b1
 requests>=2.20.0
 requests-oauthlib==1.0.0
 requests-toolbelt==0.8.0
-setuptools==40.0.0
+setuptools==65.5.1
 simplejson==3.16.0
 six==1.11.0
 textblob==0.15.1
